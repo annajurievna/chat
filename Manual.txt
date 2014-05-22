@@ -1,0 +1,11 @@
+Client command:
+
+/name nick - change name to nick
+/msg nick your_message - send private message to nick
+msg - send message to common chat
+/exit - leave chat
+
+/Server command:
+/exit - close chat
+
+max msg length = 1024
